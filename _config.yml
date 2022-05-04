@@ -1,0 +1,12 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme 
+title: Pham Van Thai
+description:
+<br>
+I have more than 3 years in Machine learning field. Currently, I am an application developer related to Deep Learning at DIGI-TEXX Vietnam. <br>
+I am doing research on AiOT and working towards future application on embedded devices
+<br>
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
